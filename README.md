@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">A Passionate C++ Developer & Game Developer</h3>
-<img align="centre" alt="Coding" height="800" width="4000" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="centre" alt="Coding" height="400" width="4000" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ansalpandey110043&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansalpandey110043" alt="ansalpandey110043" /></a> </p>
