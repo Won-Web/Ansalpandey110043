@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">A Passionate C++ Developer & Game Developer</h3>
-<img align="centre" alt="Coding" width="800" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansalpandey110043&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
