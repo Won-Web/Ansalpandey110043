@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ansal Pandey</h1>
 <h3 align="center">A Passionate C++ Developer & Game Developer</h3>
-<img align="centre" alt="Coding" height="300" width="250" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img align="centre" alt="Coding" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ansalpandey110043&label=Profile%20views&color=0e75b6&style=flat" alt="ansalpandey110043" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansalpandey110043" alt="ansalpandey110043" /></a> </p>
